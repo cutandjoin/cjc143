@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2,1\3
-REM DIRNAME cjc143,folder01,folder02
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2,1\3
+DIRNAME cjc143,folder01,folder02
 
+#
 2000 phrasesTrack01.mp3
 00:00:00 0:
 00:00:13 2:cjc143_0001
@@ -86,6 +87,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:21:14 0:
 01:21:57 2:cjc143_0041
 01:23:07 0:
+#
 2000 phrasesTrack02.mp3
 00:00:00 2:cjc143_0042
 00:00:62 0:
@@ -151,6 +153,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:06:26 0:
 01:06:47 2:cjc143_0073
 01:08:27 0:
+#
 2000 phrasesTrack03.mp3
 00:00:00 2:cjc143_0074
 00:00:56 0:
@@ -186,6 +189,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:31:24 0:
 00:31:71 2:cjc143_0090
 00:33:26 0:
+#
 2000 phrasesTrack04.mp3
 00:00:00 2:cjc143_0091
 00:00:52 0:
@@ -353,6 +357,7 @@ REM DIRNAME cjc143,folder01,folder02
 02:11:68 0:
 02:12:11 2:cjc143_0173
 02:13:30 0:
+#
 2000 phrasesTrack05.mp3
 00:00:00 2:cjc143_0174
 00:00:58 0:
@@ -406,6 +411,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:52:49 0:
 00:53:23 2:cjc143_0199
 00:54:40 0:
+#
 2000 phrasesTrack06.mp3
 00:00:00 2:cjc143_0200
 00:00:66 0:
@@ -471,6 +477,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:51:67 0:
 00:51:71 2:cjc143_0231
 00:53:23 0:
+#
 2000 phrasesTrack07.mp3
 00:00:00 2:cjc143_0232
 00:00:52 0:
@@ -632,6 +639,7 @@ REM DIRNAME cjc143,folder01,folder02
 02:28:12 0:
 02:28:55 2:cjc143_0311
 02:30:11 0:
+#
 2000 phrasesTrack08.mp3
 00:00:00 2:cjc143_0312
 00:00:56 0:
@@ -711,6 +719,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:04:45 0:
 01:04:58 2:cjc143_0350
 01:06:16 0:
+#
 2000 phrasesTrack09.mp3
 00:00:00 2:cjc143_0351
 00:00:66 0:
@@ -812,6 +821,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:42:49 0:
 01:43:17 2:cjc143_0400
 01:44:58 0:
+#
 2000 phrasesTrack10.mp3
 00:00:00 2:cjc143_0401
 00:00:58 0:
@@ -963,6 +973,7 @@ REM DIRNAME cjc143,folder01,folder02
 02:04:06 0:
 02:04:19 2:cjc143_0475
 02:05:31 0:
+#
 2000 phrasesTrack11.mp3
 00:00:00 2:cjc143_0476
 00:00:62 0:
@@ -1052,6 +1063,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:19:21 0:
 01:19:66 2:cjc143_0519
 01:20:73 0:
+#
 2000 phrasesTrack12.mp3
 00:00:00 2:cjc143_0520
 00:00:56 0:
@@ -1183,6 +1195,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:51:03 0:
 01:51:15 2:cjc143_0584
 01:52:32 0:
+#
 2000 phrasesTrack13.mp3
 00:00:00 2:cjc143_0585
 00:00:62 0:
@@ -1280,6 +1293,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:31:08 0:
 01:31:59 2:cjc143_0632
 01:33:15 0:
+#
 2000 phrasesTrack14.mp3
 00:00:00 2:cjc143_0633
 00:00:56 0:
@@ -1369,6 +1383,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:15:35 0:
 01:15:40 2:cjc143_0676
 01:16:65 0:
+#
 2000 phrasesTrack15.mp3
 00:00:00 2:cjc143_0677
 00:00:58 0:
@@ -1428,6 +1443,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:58:34 0:
 00:59:04 2:cjc143_0705
 01:01:17 0:
+#
 2000 phrasesTrack16.mp3
 00:00:00 2:cjc143_0706
 00:01:11 0:
@@ -1465,6 +1481,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:31:12 0:
 00:31:20 2:cjc143_0723
 00:33:01 0:
+#
 2000 phrasesTrack17.mp3
 00:00:00 2:cjc143_0724
 00:01:01 0:
@@ -1502,6 +1519,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:32:66 0:
 00:33:40 2:cjc143_0741
 00:35:23 0:
+#
 2000 phrasesTrack18.mp3
 00:00:00 2:cjc143_0742
 00:00:72 0:
@@ -1575,6 +1593,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:00:49 0:
 01:00:60 2:cjc143_0777
 01:02:16 0:
+#
 2000 phrasesTrack19.mp3
 00:00:00 2:cjc143_0778
 00:00:66 0:
@@ -1608,6 +1627,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:30:59 0:
 00:31:31 2:cjc143_0793
 00:32:54 0:
+#
 2000 phrasesTrack20.mp3
 00:00:00 2:cjc143_0794
 00:00:68 0:
@@ -1667,6 +1687,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:49:51 0:
 00:49:57 2:cjc143_0822
 00:51:36 0:
+#
 2000 phrasesTrack21.mp3
 00:00:00 2:cjc143_0823
 00:00:62 0:
@@ -1738,6 +1759,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:15:40 0:
 01:16:09 2:cjc143_0857
 01:18:04 0:
+#
 2000 phrasesTrack22.mp3
 00:00:00 2:cjc143_0858
 00:01:05 0:
@@ -1773,6 +1795,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:30:71 0:
 00:31:02 2:cjc143_0874
 00:32:62 0:
+#
 2000 phrasesTrack23.mp3
 00:00:00 2:cjc143_0875
 00:00:74 0:
@@ -1812,6 +1835,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:36:17 0:
 00:36:66 2:cjc143_0893
 00:38:55 0:
+#
 2000 phrasesTrack24.mp3
 00:00:00 2:cjc143_0894
 00:00:62 0:
@@ -1877,6 +1901,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:53:06 0:
 00:53:23 2:cjc143_0925
 00:55:10 0:
+#
 2000 phrasesTrack25.mp3
 00:00:00 2:cjc143_0926
 00:00:64 0:
@@ -1916,6 +1941,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:36:11 0:
 00:36:60 2:cjc143_0944
 00:38:26 0:
+#
 2000 phrasesTrack26.mp3
 00:00:00 2:cjc143_0945
 00:01:05 0:
@@ -1957,6 +1983,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:33:05 0:
 00:33:11 2:cjc143_0964
 00:34:69 0:
+#
 2000 phrasesTrack27.mp3
 00:00:00 2:cjc143_0965
 00:00:68 0:
@@ -1998,6 +2025,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:35:04 0:
 00:35:51 2:cjc143_0984
 00:36:70 0:
+#
 2000 phrasesTrack28.mp3
 00:00:00 2:cjc143_0985
 00:00:72 0:
@@ -2035,6 +2063,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:27:10 0:
 00:27:18 2:cjc143_1002
 00:28:45 0:
+#
 2000 phrasesTrack29.mp3
 00:00:00 2:cjc143_1003
 00:00:62 0:
@@ -2106,8 +2135,10 @@ REM DIRNAME cjc143,folder01,folder02
 01:05:64 0:
 01:06:34 2:cjc143_1037
 01:07:51 0:
+#
 2000 phrasesTrack30.mp3
 00:00:00 0:
+#
 2000 phrasesTrack31.mp3
 00:00:00 2:cjc143_1038
 00:00:52 0:
@@ -2255,6 +2286,7 @@ REM DIRNAME cjc143,folder01,folder02
 02:39:69 0:
 02:40:43 2:cjc143_1110
 02:42:26 0:
+#
 2000 phrasesTrack32.mp3
 00:00:00 2:cjc143_1111
 00:00:68 0:
@@ -2316,6 +2348,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:59:08 0:
 00:59:18 2:cjc143_1140
 01:01:01 0:
+#
 2000 phrasesTrack33.mp3
 00:00:00 2:cjc143_1141
 00:00:56 0:
@@ -2369,6 +2402,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:54:29 0:
 00:55:04 2:cjc143_1166
 00:56:67 0:
+#
 2000 phrasesTrack34.mp3
 00:00:00 2:cjc143_1167
 00:00:56 0:
@@ -2550,6 +2584,7 @@ REM DIRNAME cjc143,folder01,folder02
 02:23:23 0:
 02:23:38 2:cjc143_1256
 02:24:61 0:
+#
 2000 phrasesTrack35.mp3
 00:00:00 2:cjc143_1257
 00:00:62 0:
@@ -2619,6 +2654,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:16:30 0:
 01:16:71 2:cjc143_1290
 01:18:31 0:
+#
 2000 phrasesTrack36.mp3
 00:00:00 2:cjc143_1291
 00:00:68 0:
@@ -2710,6 +2746,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:19:38 0:
 01:19:66 2:cjc143_1335
 01:21:29 0:
+#
 2000 phrasesTrack37.mp3
 00:00:00 2:cjc143_1336
 00:00:52 0:
@@ -2907,6 +2944,7 @@ REM DIRNAME cjc143,folder01,folder02
 03:15:17 0:
 03:15:59 2:cjc143_1433
 03:17:16 0:
+#
 2000 phrasesTrack38.mp3
 00:00:00 2:cjc143_1434
 00:00:62 0:
@@ -2996,6 +3034,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:07:55 0:
 01:07:59 2:cjc143_1477
 01:09:20 0:
+#
 2000 phrasesTrack39.mp3
 00:00:00 2:cjc143_1478
 00:00:68 0:
@@ -3123,6 +3162,7 @@ REM DIRNAME cjc143,folder01,folder02
 02:18:55 0:
 02:19:23 2:cjc143_1540
 02:20:32 0:
+#
 2000 phrasesTrack40.mp3
 00:00:00 2:cjc143_1541
 00:00:62 0:
@@ -3334,6 +3374,7 @@ REM DIRNAME cjc143,folder01,folder02
 02:58:11 0:
 02:58:17 2:cjc143_1645
 03:00:06 0:
+#
 2000 phrasesTrack41.mp3
 00:00:00 2:cjc143_1646
 00:00:62 0:
@@ -3447,6 +3488,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:53:65 0:
 01:54:46 2:cjc143_1701
 01:56:06 0:
+#
 2000 phrasesTrack42.mp3
 00:00:00 2:cjc143_1702
 00:00:52 0:
@@ -3596,6 +3638,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:56:69 0:
 01:57:13 2:cjc143_1775
 01:58:34 0:
+#
 2000 phrasesTrack43.mp3
 00:00:00 2:cjc143_1776
 00:00:58 0:
@@ -3679,6 +3722,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:26:70 0:
 01:27:48 2:cjc143_1816
 01:28:67 0:
+#
 2000 phrasesTrack44.mp3
 00:00:00 2:cjc143_1817
 00:00:64 0:
@@ -3770,6 +3814,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:16:40 0:
 01:16:61 2:cjc143_1861
 01:18:33 0:
+#
 2000 phrasesTrack45.mp3
 00:00:00 2:cjc143_1862
 00:00:58 0:
@@ -3829,6 +3874,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:02:71 0:
 01:03:41 2:cjc143_1890
 01:05:58 0:
+#
 2000 phrasesTrack46.mp3
 00:00:00 2:cjc143_1891
 00:01:13 0:
@@ -3874,6 +3920,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:38:31 0:
 00:38:41 2:cjc143_1912
 00:40:21 0:
+#
 2000 phrasesTrack47.mp3
 00:00:00 2:cjc143_1913
 00:01:03 0:
@@ -3905,6 +3952,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:31:43 0:
 00:32:17 2:cjc143_1927
 00:33:52 0:
+#
 2000 phrasesTrack48.mp3
 00:00:00 2:cjc143_1928
 00:01:11 0:
@@ -3976,6 +4024,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:04:39 0:
 01:04:56 2:cjc143_1962
 01:06:63 0:
+#
 2000 phrasesTrack49.mp3
 00:00:00 2:cjc143_1963
 00:00:66 0:
@@ -4007,6 +4056,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:31:69 0:
 00:32:37 2:cjc143_1977
 00:33:56 0:
+#
 2000 phrasesTrack50.mp3
 00:00:00 2:cjc143_1978
 00:00:66 0:
@@ -4088,6 +4138,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:08:07 0:
 01:08:21 2:cjc143_2017
 01:10:41 0:
+#
 2000 phrasesTrack51.mp3
 00:00:00 2:cjc143_2018
 00:00:62 0:
@@ -4173,6 +4224,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:38:20 0:
 01:38:71 2:cjc143_2059
 01:41:44 0:
+#
 2000 phrasesTrack52.mp3
 00:00:00 2:cjc143_2060
 00:01:11 0:
@@ -4218,6 +4270,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:43:25 0:
 00:43:35 2:cjc143_2081
 00:45:47 0:
+#
 2000 phrasesTrack53.mp3
 00:00:00 2:cjc143_2082
 00:00:72 0:
@@ -4253,6 +4306,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:37:32 0:
 00:38:02 2:cjc143_2098
 00:39:62 0:
+#
 2000 phrasesTrack54.mp3
 00:00:00 2:cjc143_2099
 00:00:64 0:
@@ -4326,6 +4380,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:06:28 0:
 01:06:47 2:cjc143_2134
 01:09:03 0:
+#
 2000 phrasesTrack55.mp3
 00:00:00 2:cjc143_2135
 00:00:64 0:
@@ -4365,6 +4420,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:36:48 0:
 00:37:20 2:cjc143_2153
 00:39:02 0:
+#
 2000 phrasesTrack56.mp3
 00:00:00 2:cjc143_2154
 00:01:05 0:
@@ -4410,6 +4466,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:41:53 0:
 00:41:63 2:cjc143_2175
 00:43:44 0:
+#
 2000 phrasesTrack57.mp3
 00:00:00 2:cjc143_2176
 00:00:68 0:
@@ -4475,6 +4532,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:04:01 0:
 01:04:52 2:cjc143_2207
 01:06:28 0:
+#
 2000 phrasesTrack58.mp3
 00:00:00 2:cjc143_2208
 00:00:74 0:
@@ -4504,6 +4562,7 @@ REM DIRNAME cjc143,folder01,folder02
 00:25:25 0:
 00:25:39 2:cjc143_2221
 00:27:71 0:
+#
 2000 phrasesTrack59.mp3
 00:00:00 2:cjc143_2222
 00:00:64 0:
@@ -4589,6 +4648,7 @@ REM DIRNAME cjc143,folder01,folder02
 01:27:14 0:
 01:27:65 2:cjc143_2263
 01:29:33 0:
+#
 sample sentencesTrack01.mp3
 00:00:00 3:cjc143_2264
 00:00:52 0:
@@ -4672,6 +4732,7 @@ sample sentencesTrack01.mp3
 02:34:01 0:
 02:35:12 3:cjc143_2304
 02:37:40 0:
+#
 sample sentencesTrack02.mp3
 00:00:00 3:cjc143_2305
 00:00:62 0:
@@ -4737,6 +4798,7 @@ sample sentencesTrack02.mp3
 02:10:43 0:
 02:11:55 3:cjc143_2336
 02:14:41 0:
+#
 sample sentencesTrack03.mp3
 00:00:00 3:cjc143_2337
 00:00:52 0:
@@ -4772,6 +4834,7 @@ sample sentencesTrack03.mp3
 01:07:51 0:
 01:08:58 3:cjc143_2353
 01:10:24 0:
+#
 sample sentencesTrack04.mp3
 00:00:00 3:cjc143_2354
 00:00:52 0:
@@ -4937,6 +5000,7 @@ sample sentencesTrack04.mp3
 05:02:11 0:
 05:03:23 3:cjc143_2435
 05:05:18 0:
+#
 sample sentencesTrack05.mp3
 00:00:00 3:cjc143_2436
 00:00:62 0:
@@ -4988,6 +5052,7 @@ sample sentencesTrack05.mp3
 01:32:19 0:
 01:33:34 3:cjc143_2460
 01:36:01 0:
+#
 sample sentencesTrack06.mp3
 00:00:00 3:cjc143_2461
 00:00:64 0:
@@ -5053,6 +5118,7 @@ sample sentencesTrack06.mp3
 01:54:46 0:
 01:55:56 3:cjc143_2492
 01:58:46 0:
+#
 sample sentencesTrack07.mp3
 00:00:00 3:cjc143_2493
 00:00:52 0:
@@ -5208,6 +5274,7 @@ sample sentencesTrack07.mp3
 04:58:02 0:
 04:59:09 3:cjc143_2569
 05:01:41 0:
+#
 sample sentencesTrack08.mp3
 00:00:00 3:cjc143_2570
 00:00:56 0:
@@ -5287,6 +5354,7 @@ sample sentencesTrack08.mp3
 02:12:68 0:
 02:14:00 3:cjc143_2608
 02:16:03 0:
+#
 sample sentencesTrack09.mp3
 00:00:00 3:cjc143_2609
 00:00:66 0:
@@ -5386,6 +5454,7 @@ sample sentencesTrack09.mp3
 03:10:50 0:
 03:11:57 3:cjc143_2657
 03:14:20 0:
+#
 sample sentencesTrack10.mp3
 00:00:00 3:cjc143_2658
 00:00:62 0:
@@ -5529,6 +5598,7 @@ sample sentencesTrack10.mp3
 04:19:33 0:
 04:20:40 3:cjc143_2728
 04:23:54 0:
+#
 sample sentencesTrack11.mp3
 00:00:00 3:cjc143_2729
 00:00:62 0:
@@ -5616,6 +5686,7 @@ sample sentencesTrack11.mp3
 02:53:22 0:
 02:54:37 3:cjc143_2771
 02:56:49 0:
+#
 sample sentencesTrack12.mp3
 00:00:00 3:cjc143_2772
 00:00:64 0:
@@ -5743,6 +5814,7 @@ sample sentencesTrack12.mp3
 03:57:32 0:
 03:58:39 3:cjc143_2834
 04:01:70 0:
+#
 sample sentencesTrack13.mp3
 00:00:00 3:cjc143_2835
 00:00:58 0:
@@ -5840,6 +5912,7 @@ sample sentencesTrack13.mp3
 02:58:54 0:
 02:59:62 3:cjc143_2882
 03:02:68 0:
+#
 sample sentencesTrack14.mp3
 00:00:00 3:cjc143_2883
 00:00:74 0:
@@ -5929,6 +6002,7 @@ sample sentencesTrack14.mp3
 03:00:55 0:
 03:01:64 3:cjc143_2926
 03:05:54 0:
+#
 sample sentencesTrack15.mp3
 00:00:00 3:cjc143_2927
 00:00:58 0:
@@ -5986,6 +6060,7 @@ sample sentencesTrack15.mp3
 01:41:30 0:
 01:42:37 3:cjc143_2954
 01:46:25 0:
+#
 sample sentencesTrack16.mp3
 00:00:00 3:cjc143_2955
 00:01:13 0:
@@ -6023,6 +6098,7 @@ sample sentencesTrack16.mp3
 01:03:04 0:
 01:04:15 3:cjc143_2972
 01:07:25 0:
+#
 sample sentencesTrack17.mp3
 00:00:00 3:cjc143_2973
 00:01:01 0:
@@ -6060,6 +6136,7 @@ sample sentencesTrack17.mp3
 01:15:07 0:
 01:16:20 3:cjc143_2990
 01:18:68 0:
+#
 sample sentencesTrack18.mp3
 00:00:00 3:cjc143_2991
 00:01:01 0:
@@ -6131,6 +6208,7 @@ sample sentencesTrack18.mp3
 02:12:72 0:
 02:14:10 3:cjc143_3025
 02:17:00 0:
+#
 sample sentencesTrack19.mp3
 00:00:00 3:cjc143_3026
 00:00:70 0:
@@ -6164,6 +6242,7 @@ sample sentencesTrack19.mp3
 00:54:54 0:
 00:55:61 3:cjc143_3041
 00:59:04 0:
+#
 sample sentencesTrack20.mp3
 00:00:00 3:cjc143_3042
 00:00:68 0:
@@ -6223,6 +6302,7 @@ sample sentencesTrack20.mp3
 01:51:44 0:
 01:52:53 3:cjc143_3070
 01:55:03 0:
+#
 sample sentencesTrack21.mp3
 00:00:00 3:cjc143_3071
 00:00:58 0:
@@ -6294,6 +6374,7 @@ sample sentencesTrack21.mp3
 02:14:16 0:
 02:15:23 3:cjc143_3105
 02:18:29 0:
+#
 sample sentencesTrack22.mp3
 00:00:00 3:cjc143_3106
 00:01:05 0:
@@ -6329,6 +6410,7 @@ sample sentencesTrack22.mp3
 01:01:09 0:
 01:02:20 3:cjc143_3122
 01:05:32 0:
+#
 sample sentencesTrack23.mp3
 00:00:00 3:cjc143_3123
 00:00:74 0:
@@ -6368,6 +6450,7 @@ sample sentencesTrack23.mp3
 01:10:71 0:
 01:12:07 3:cjc143_3141
 01:16:40 0:
+#
 sample sentencesTrack24.mp3
 00:00:00 3:cjc143_3142
 00:00:68 0:
@@ -6433,6 +6516,7 @@ sample sentencesTrack24.mp3
 02:05:23 0:
 02:06:48 3:cjc143_3173
 02:09:62 0:
+#
 sample sentencesTrack25.mp3
 00:00:00 3:cjc143_3174
 00:00:64 0:
@@ -6470,6 +6554,7 @@ sample sentencesTrack25.mp3
 01:06:32 0:
 01:07:41 3:cjc143_3191
 01:10:51 0:
+#
 sample sentencesTrack26.mp3
 00:00:00 3:cjc143_3192
 00:01:09 0:
@@ -6511,6 +6596,7 @@ sample sentencesTrack26.mp3
 01:14:39 0:
 01:15:74 3:cjc143_3211
 01:18:53 0:
+#
 sample sentencesTrack27.mp3
 00:00:00 3:cjc143_3212
 00:00:68 0:
@@ -6552,6 +6638,7 @@ sample sentencesTrack27.mp3
 01:20:14 0:
 01:21:20 3:cjc143_3231
 01:25:47 0:
+#
 sample sentencesTrack28.mp3
 00:00:00 3:cjc143_3232
 00:00:72 0:
@@ -6589,6 +6676,7 @@ sample sentencesTrack28.mp3
 01:03:69 0:
 01:05:09 3:cjc143_3249
 01:07:68 0:
+#
 sample sentencesTrack29.mp3
 00:00:00 3:cjc143_3250
 00:00:62 0:
